@@ -1,4 +1,4 @@
-# Library for MS5803-30BA (TE 30Bar pressure sensor)
+# Arduino Library for MS5803-30BA (TE 30Bar pressure sensor)
 
 ## 概要
 
